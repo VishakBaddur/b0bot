@@ -11,6 +11,9 @@
 B0Bot is a cybersecurity news intelligence platform built around a three-service architecture: an ingestion service that polls RSS feeds and enriches articles with CVE/severity metadata, an api-service that runs a LangGraph agent pipeline for search, analysis, and a grounded Ask AI chat, and a notification service that sends digest emails to subscribers.
 </p>
 
+## Demo Video
+[![B0Bot Demo Video](https://img.youtube.com/vi/yEFrGnZ6oj0/0.jpg)](https://youtu.be/yEFrGnZ6oj0)
+
 ## Architecture
 
 ![Architecture](assets/architecture.png)
